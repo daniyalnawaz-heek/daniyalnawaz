@@ -56,7 +56,7 @@ import {WiSnowflakeCold } from 'react-icons/wi';
             <Animator animation={MoveIn(1000, 0)}>FOR</Animator>
                                              OPPORTUNITIES
             <Animator animation={MoveOut(1000, 0)}>AND </Animator>
-            <Animator animation={MoveOut(-1000, 0)}> CHALLANGES</Animator>
+            <Animator animation={MoveOut(-1000, 0)}> CHALLENGES</Animator>
           </span>
         </div>
       </ScrollPage>
