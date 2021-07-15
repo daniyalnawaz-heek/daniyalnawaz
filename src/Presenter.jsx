@@ -44,7 +44,7 @@ import {WiSnowflakeCold } from 'react-icons/wi';
 
       <ScrollPage page={4}>
         <Animator animation={ZoomInScrollOut}>
-          <span style={{ fontSize: "3em" }}>NEVERTHELESS A FRESHER  </span>
+          <span style={{ fontSize: "3em" }}> A FRESHER NEVERTHELESS </span>
         </Animator>
       </ScrollPage>
 
